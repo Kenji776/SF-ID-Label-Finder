@@ -1,0 +1,7 @@
+{
+	"name": "Salesforce Id Label Finder",
+	"author": "Daniel Llewellyn",
+	"version": 1.0,
+	"orgDataLocation": "force-app\\main\\default",
+
+}
